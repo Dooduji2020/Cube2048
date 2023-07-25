@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040911799106",
+    "project_id": "cube-2048-merge-block-41587255",
+    "storage_bucket": "cube-2048-merge-block-41587255.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040911799106:android:a41260d101ee334339eedb",
+        "android_client_info": {
+          "package_name": "com.LibraStudio.Cube2048mergeblock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040911799106-19f32ao04u0cstjqi03nqe23as76vbpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxG-iAHiN0lg6nl2eBnwTolZipZV07KTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040911799106-19f32ao04u0cstjqi03nqe23as76vbpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
